@@ -1,8 +1,7 @@
 # EasyClip
-DynaFAT is a real time audio processing VST made for electronic music production. DynaFAT preserves dynamics while adding richness to bass synths through aggressive distortion, multiband compression, and envelope following.
+EasyClip is a real time audio processor plugin for electronic music production that distorts incoming audio through 4 algorithm choices.
 
 Requirements:
 - C++
 - CMake
 - JUCE framework
-
