@@ -15,7 +15,7 @@ A real-time audio distortion plugin for electronic music production, offering fo
 ## Use Cases
 
 - Adding harmonic richness and grit to bass synths
-- [Add another use case — e.g. "Saturating drum buses for extra punch" or "Lo-fi texture via the Downsample algorithm"]
+- Adding punch to drums to cut through your mix and add impact
 
 ## Tech Stack
 
