@@ -4,7 +4,7 @@ A real-time audio distortion plugin for electronic music production, offering fo
 
 <img width="301" height="628" alt="image" src="https://github.com/user-attachments/assets/a53b941f-39e2-43a4-b77b-c3ba778c3c55" />
 
-🎥 [Demo Video]((https://www.youtube.com/watch?v=7pT0tFm85ME))
+🎥 [Demo Video](https://www.youtube.com/watch?v=7pT0tFm85ME)
 
 ## Features
 
